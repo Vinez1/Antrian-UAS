@@ -7,7 +7,12 @@
 
 # LINK TUGAS
 
-- <a href=""> Dokumentasi </a> 
+- <a href="https://youtu.be/d2opKHenlHk"> Dokumentasi </a> 
 
 - <a href="http://antrianuas.epizy.com/"> Demo Progam </a>
 
+## Link Hosting
+
+- saya menggunakan <a href="https://www.infinityfree.net/">infinityfree </a> untuk menghosting file
+
+- untuk mengupload data data saya menggunakan aplikasi <a href="https://filezilla-project.org/">FileZilla </a>
